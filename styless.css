@@ -1,11 +1,11 @@
 body {
-  background-color:  black;
-  color: black;
+  background-color:  blue;
+  color: white;
   font-family: Arial, sans-serif;
   font-size: 18px;
 }
 h1 {
-  color: blue;
+  color: orange;
   font-size: 36px
 }
 h2 {
