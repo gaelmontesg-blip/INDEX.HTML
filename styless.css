@@ -1,0 +1,18 @@
+body {
+  backgroung-color:  #eeeeee;
+  color: #222222;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  color: blue;
+  font-size: 36px
+}
+h2 {
+  color: darkgreen;
+}
+button {
+  background-color: blue;
+  color: white;
+  font-size: 18px
+}
